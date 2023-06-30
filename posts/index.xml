@@ -6,7 +6,23 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2023 10:18:27 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Jun 2023 19:50:53 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySecondArticles</title>
+      <link>/posts/mysecondarticles/</link>
+      <pubDate>Fri, 30 Jun 2023 19:50:53 +0800</pubDate>
+      
+      <guid>/posts/mysecondarticles/</guid>
+      <description>
+        
+          
+            #用github上项目名称打不开的hugo上的博客文章。然后重新弄了一遍public就好了我也不知道哪里出了问题。
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFirstArticles</title>
       <link>/posts/myfirstarticles/</link>
@@ -16,7 +32,7 @@
       <description>
         
           
-            #这是我的第一篇博客文章
+            #这是我的第一篇博客
           
           
         
